@@ -1,4 +1,4 @@
-# DIY IoT Weather Station Data Dump
+# DIY IoT Weather Station Dataset
 I built a little weather station myself using a wemos and some old hardware for a database server. I have used the SFE_BMP180 and DHT11 sensors. The dataset I provide has roughly 100k data points starting at 6th July 2022 and ends with the 2nd of June 2024 due to a power shortage in Dresden. The weather station was located in  Dresden (east outskirt) in Germany. 
 
 The dataset is mainly the csv file with four columns: datetime (in MEZ only (not in MESZ)), temperature (in °C), pressure (in hPa) and humidity (in %). I have also uploaded json files (from a mongo db) providing the same data as in the csv but also with some currupted data of a light intensity bh1750 sensor (in lux) facing south. But unfortunatly the light sensor went offline due to a water damage.
