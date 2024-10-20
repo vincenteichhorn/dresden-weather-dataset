@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "62af6b077fe2d9b7211c1072"
+  },
+  "name": "Temperatur",
+  "unit": "°C",
+  "short": "temp"
+},
+{
+  "_id": {
+    "$oid": "62af6b077fe2d9b7211c1075"
+  },
+  "name": "Luftdruck",
+  "unit": "hPa",
+  "short": "bar"
+},
+{
+  "_id": {
+    "$oid": "62b7179ce3ced500c639ec8f"
+  },
+  "name": "Luftfeuchtigkeit",
+  "unit": "%",
+  "short": "hum"
+},
+{
+  "_id": {
+    "$oid": "62b73356e3ced500c639ec9d"
+  },
+  "name": "Helligkeit",
+  "unit": "lux",
+  "short": "licht"
+}]
