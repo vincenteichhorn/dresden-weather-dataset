@@ -4,7 +4,8 @@
   },
   "name": "Temperatur",
   "unit": "°C",
-  "short": "temp"
+  "short": "temp",
+  "disabled": false
 },
 {
   "_id": {
@@ -12,7 +13,8 @@
   },
   "name": "Luftdruck",
   "unit": "hPa",
-  "short": "bar"
+  "short": "bar",
+  "disabled": false
 },
 {
   "_id": {
@@ -20,7 +22,8 @@
   },
   "name": "Luftfeuchtigkeit",
   "unit": "%",
-  "short": "hum"
+  "short": "hum",
+  "disabled": false
 },
 {
   "_id": {
@@ -28,5 +31,6 @@
   },
   "name": "Helligkeit",
   "unit": "lux",
-  "short": "licht"
+  "short": "licht",
+  "disabled": true
 }]
